@@ -11,7 +11,9 @@ Please note this project is still in development.
 # Development
 To use this program, just 
 ```clone the repo or download the .zip```
+
 ```python3 -m pip install rumps```
+
 ```python3 currencyConverter.py```
 
 # License
