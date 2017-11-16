@@ -1,4 +1,5 @@
 # currencyConverter 
+
 currencyConverter is a simple MacOS statusbar app that is built using Python and [rumps](https://github.com/jaredks/rumps).
 
 This is a program that allows you to check your desired exchange rate in your status bar. 
