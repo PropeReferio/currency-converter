@@ -17,5 +17,9 @@ To use this program, just
 
 ```python3 currencyConverter.py```
 
+# Snapshot
+![alt text](https://github.com/ahmedelgohary/currencyConverter/blob/master/Screen%20Shot%202018-01-24%20at%2000.34.13.png "snapshot")
+
+
 # License
 See LICENSE for details. Copyright Ahmed El Gohary, 2017.
