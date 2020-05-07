@@ -13,7 +13,7 @@ To use this program, just
 
 ```clone the repo or download the .zip```
 
-```python3 -m pip install rumps```
+```python3 -m pip install rumps requests```
 
 ```python3 currencyConverter.py```
 
